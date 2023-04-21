@@ -19,3 +19,4 @@ def task(str_1, str_2):
         print("нет")
 task('test', 'test1')
 
+
